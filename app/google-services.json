@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671677478236",
+    "firebase_url": "https://shopnearme-2a6ee.firebaseio.com",
+    "project_id": "shopnearme-2a6ee",
+    "storage_bucket": "shopnearme-2a6ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671677478236:android:34146463ca971afe",
+        "android_client_info": {
+          "package_name": "com.aseemsethi.shopnearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671677478236-b10ci4lghsbmjr5bcjdq0k43eddrm48u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aseemsethi.shopnearme",
+            "certificate_hash": "f524e7b39836b693d487b402a5c36933fbb5c307"
+          }
+        },
+        {
+          "client_id": "671677478236-lh132lioc9s950r8s7ut7m0dijoicr5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYQ7DCsFuOKa84lfNTn4V7geCGx_Nnp28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671677478236-lh132lioc9s950r8s7ut7m0dijoicr5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
